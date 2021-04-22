@@ -18,5 +18,5 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/vigilant-octo-f
 });
 
 mongoose.set('debug', true);
-
+mongoose.set('useCreateIndex', true)
 app.listen(PORT, () => console.log(`🌍 Connected on localhost:${PORT}`));
