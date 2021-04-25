@@ -1,7 +1,7 @@
 # vigilant-octo-funicular
  
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
-Walkthrough Videos: [LINK](https://drive.google.com/file/d/1EhTUwmzGr3qDbyz1bDCESML_6n4L3kp8/view)[LINK](https://drive.google.com/file/d/1Pcle1dNDl1Dz4LMMSNhnxkyKYeaIUxOd/view)[LINK](https://drive.google.com/file/d/1CtEBwKDHnmBg8lgNXykM6JJbeOiEBf1G/view)
+Walkthrough Videos: [LINK 1](https://drive.google.com/file/d/1EhTUwmzGr3qDbyz1bDCESML_6n4L3kp8/view)[,LINK 2](https://drive.google.com/file/d/1Pcle1dNDl1Dz4LMMSNhnxkyKYeaIUxOd/view)[,LINK 3](https://drive.google.com/file/d/1CtEBwKDHnmBg8lgNXykM6JJbeOiEBf1G/view)
 
  ##  Description
  ### This project uses the mongodb database, mongoose and express to create a application where users can be friends, post thoughts to others posts and also add friends!
