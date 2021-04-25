@@ -26,5 +26,5 @@ Walkthrough Videos: [LINK 1](https://drive.google.com/file/d/1EhTUwmzGr3qDbyz1bD
  ###### If you have any questions about this repo, contact https://github.com/drewvena/vigilant-octo-funicular
  
  ## Email
- ###### drewena1@gmail.com
+ ###### drewvena1@gmail.com
 
